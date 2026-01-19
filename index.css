@@ -1,0 +1,31 @@
+#root{
+  text-align: center;
+}
+.color-box{
+  height: 150px;
+  width: 150px;
+  border: 1px solid rgb(8, 7, 7);
+  margin-left: 278px;
+  margin-top: 10px;
+}
+.btn1{
+  border: 1px solid white;
+  padding: 10px;
+  background-color: rgb(239, 95, 101);
+  border-radius: 10px;
+
+}
+.btn2{
+  padding: 10px;
+  background-color: rgb(95, 143, 239);
+  border-radius: 10px;
+  border:1px solid white;
+
+}
+.btn3{
+   padding: 10px;
+  background-color: rgb(95, 239, 107);
+  border-radius: 10px;
+  border:1px solid white;
+
+}
